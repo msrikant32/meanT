@@ -1,0 +1,7 @@
+1. npm install touch used
+2. $ npm install express --save
+
+
+To start the first page
+	1. npm start server.js
+	2. node server.js
